@@ -2,8 +2,19 @@
 website system security guarantees an A+ score and does not damage the template and is not slow
 You only need to add the script in the .htaccess file, .js file, .json file and .css file
 Download the following files then edit the .html file, .js file and .css file
+For more information 
+Phone            : (62)216596954
+Mobile Whatsapp  : (62)87734218329
+Website          : https://cnetion.com
+E-Mail           : service@cnetion.com
+                 : cs-care@cnetion.com
 
 Our website security system features have been tested and have been tested for years by our team or well-known hacker groups, both Annonymouse and Blackhat.
+You just have to change the domain example.com with your domain name and change the files
+Header always set Access-Control-Allow-Origin: https://example.com/js/app.js
+Header always set Access-Control-Allow-Origin: https://example.com/css/app.css
+Header always set Access-Control-Allow-Origin: https://code.jquery.com/jquery-2.1.4.min.js
+with your domain name and your template, but for security / generating files / encrypting css js html json files it must be done manually so that it is 100% safe without bugs
 
 The Features We Offer :
 1. Proxy Server
